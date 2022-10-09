@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-    <artifactId>sl_Assignment-1</artifactId>
+    <artifactId>sl_Assignment-pipelineCode</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
@@ -31,5 +31,6 @@
                 </configuration>
             </plugin>
         </plugins>
+        <finalName>my-maven-docker-project</finalName>
     </build>
 </project>
